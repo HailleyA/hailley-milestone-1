@@ -11,7 +11,7 @@ The web game is deployed at __________________ (YOUR DEPLOYED GITHUB.IO URL).
 
 
 ## Game Logic
-The player needs to make their line either horizontal, vertically or diagonally w/ their character in order to win the game. They will continue this process until the player is tired of playing the game. The player can choose to be either X or O and where they want to put the character they chose down. The board will display their character and then the bot will put their character down to end their turn. This will continue until either player wins or it ends in a draw. The player will know that they’ve won with a sound effect that will play when the game finishes, if they lose, another sound effect will play, if there is a draw, there will be an effect shown on the screen to reflect that game outcome.
+The player needs to make their line either horizontal, vertically or diagonally with their character in order to win the game. They will continue this process until the player is tired of playing the game. The player can choose to be either X or O and where they want to put the character they chose down. The board will display their character and then the bot will put their character down to end their turn. This will continue until either player wins or it ends in a draw. The player will know that they’ve won with a sound effect that will play when the game finishes, if they lose, another sound effect will play, if there is a draw, there will be an effect shown on the screen to reflect that game outcome.
 
 
 ### Post-MVP Plans
