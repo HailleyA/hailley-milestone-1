@@ -7,7 +7,7 @@ We all know and love this classic game called, “Tic Tac Toe”. It has been ar
 
 ## Deployment
 
-The web game is deployed at __________________ (YOUR DEPLOYED GITHUB.IO URL).
+The web game is deployed at (https://hailleya.github.io/)
 
 
 ## Game Logic
@@ -16,7 +16,6 @@ The player needs to make their line either horizontal, vertically or diagonally 
 
 ### Post-MVP Plans
 
-XXX Replace the text below as you list with your own text then delete this line. XXX
 
 - One great idea I hope to be able to add in before the project deadline.
 
@@ -26,6 +25,6 @@ a scoreboard! that'd be good !
 
 I want to add a confetti effect to the screen when the player wins, not the bot. 
 
-- Something else I don't technically know how to do... *yet*. :)
-not sure what else i can do 
+ Something else I don't technically know how to do... *yet*. :)
 
+not sure what else i can do 
