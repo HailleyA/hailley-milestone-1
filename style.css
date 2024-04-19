@@ -1,10 +1,49 @@
 * {background-color: aqua;
 }
 
-.root {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    color: #333;
-    background-color: #fff;
-  }
-  
+:root {
+    --darkBlue: #264d73;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: var(--darkBlue);
+}
+
+.container {
+    padding: 40px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* tile styling */
+
+#gameboard {
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--darkBlue);
+}
+/*end of tile styling*/
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--darkBlue);
+    color: whitesmoke;
+    border-color:var(--darkBlue);
+    font-size: small;
+}
