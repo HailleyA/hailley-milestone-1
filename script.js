@@ -71,9 +71,7 @@ function restartGame() {
 
     // Clear the gameboard
     const boxes = document.querySelectorAll('.box');
-    boxes.forEach(box => {
-        box.textContent = '';
-    });
+    boxes.forEach(box => {  box.textContent = ''; });
 
     // Hide the winner message
     const winnerMessage = document.getElementById('winnerMessage');

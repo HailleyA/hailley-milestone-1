@@ -2,7 +2,7 @@ hailley-milestone-1
 
 ## Description
 
-We all know and love this classic game called, “Tic Tac Toe”. It has been around forever and it is extremely handy in a time where two people might be bored out of their minds. I would play this game a ton when I was younger with my grandmother and sometimes still do to pass the time. This game can go on forever, whether or not the two people playing get tired of playing or their next idea comes along. But in this version, you are up against a bot so do your best to outsmart them!
+We all know and love this classic game called, “Tic Tac Toe”. It has been around forever and it is extremely handy in a time where two people might be bored out of their minds. I would play this game a ton when I was younger with my grandmother and sometimes still do to pass the time. This game can go on forever, whether or not the two people playing get tired of playing or their next idea comes along. 
 
 
 ## Deployment
@@ -23,7 +23,7 @@ a scoreboard! that'd be good !
 
 - Another that will be a stretch.
 
-I want to add a confetti effect to the screen when the player wins, not the bot. 
+I want to add a confetti effect to the screen when either player wins. I want to add a multiplayer choice and a player versus bot option. 
 
  Something else I don't technically know how to do... *yet*. :)
 
