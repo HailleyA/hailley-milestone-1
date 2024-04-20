@@ -19,17 +19,20 @@
         <h1 id="playerText">Tic Tac Toe!</h1>
         <button id="restartBtn">Restart</button>
 
-<div id="gameboard">
-    <div class="box" id="0"></div>
-    <div class="box" id="1"></div>
-    <div class="box" id="2"></div>
-    <div class="box" id="3"></div>
-    <div class="box" id="4"></div>
-    <div class="box" id="5"></div>
-    <div class="box" id="6"></div>
-    <div class="box" id="7"></div>
-    <div class="box" id="8"></div>
-</div>
+        <div id="winnerMessage" style="display: none;"></div>
+
+
+        <div id="gameboard">
+            <div class="box" id="0" onclick="handleMove(this)"></div>
+            <div class="box" id="1" onclick="handleMove(this)"></div>
+            <div class="box" id="2" onclick="handleMove(this)"></div>
+            <div class="box" id="3" onclick="handleMove(this)"></div>
+            <div class="box" id="4" onclick="handleMove(this)"></div>
+            <div class="box" id="5" onclick="handleMove(this)"></div>
+            <div class="box" id="6" onclick="handleMove(this)"></div>
+            <div class="box" id="7" onclick="handleMove(this)"></div>
+            <div class="box" id="8" onclick="handleMove(this)"></div>
+        </div>
 </div>
 
 <!--Game logic-->
